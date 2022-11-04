@@ -17,7 +17,7 @@ Please follow the below steps to run this project.
 1. cd main file
 2. npm install
 3. cd fronted and backend npm install
-3. npm start
+3. npm run dev
 
 ### Subject Details
 - Class : TE (COMP) Div A - 2022-2023
@@ -27,12 +27,12 @@ Please follow the below steps to run this project.
 ### Platform, Libraries and Frameworks used
 1. [NodeJS](https://nodejs.org)
 2. [ExpressJS](https://expressjs.org)
-3. [TensorFlow](https://tensorflowjs.com)
+3. [Reactjs]
 
-### Dataset Used
-1. [Kaggle Dataset 1](https://kaggle.com/dataset1)
-2. [Kaggle Dataset 2](https://kaggle.com/dataset2)
+### Database Used
+1. MONGO and NODE
 
 ### References
-- [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
-- [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
+- w3school
+- Journal
+- www.geeksforgeeks.org 
